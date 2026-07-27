@@ -13,6 +13,7 @@ Este é um projeto de console (.NET) criado com o objetivo de praticar os fundam
 | Hello World | [`helloworld.cs`](helloworld.cs) | Primeiro programa, imprime `"Hello World"` no console. |
 | Menor ou Maior de Idade | [`MenorMaiorIdade.cs`](MenorMaiorIdade.cs) | Lê a idade digitada pelo usuário e informa se é maior ou menor de idade (18 anos). |
 | Acessar Wi-Fi | [`AcessarWIFI.cs`](AcessarWIFI.cs) | Simulação simples: compara a senha digitada com uma senha fixa no código e informa se está correta. |
+| Tabuada | [`TabuadaSimples.cs`](TabuadaSimples.cs) | Lê um número e imprime sua tabuada de 1 a 10 usando um laço `for`. |
 
 O ponto de entrada do projeto é o [`Program.cs`](Program.cs), que chama os exercícios. Como só um exercício roda por vez, comente/descomente a chamada do exercício desejado no `Program.cs`.
 
@@ -34,6 +35,7 @@ Program.cs             # ponto de entrada
 helloworld.cs           # exercício: hello world
 MenorMaiorIdade.cs       # exercício: maior ou menor de idade
 AcessarWIFI.cs           # exercício: validação de senha de Wi-Fi
+TabuadaSimples.cs        # exercício: tabuada com laço for
 ```
 
 ## Roadmap
