@@ -14,23 +14,6 @@ public class menormaioridade
         }
         else Console.WriteLine("Você é maior de idade :)");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 
 }
