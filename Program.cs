@@ -1,4 +1,9 @@
 ﻿Console.WriteLine("Exercicios");
 
-helloworld.Executar();
-menormaioridade.Executar();
+
+//REMOVA AS BARRAS DO PROGRAMA QUE DESJAR EXECUTAR!//
+
+
+AcessarWifi.Executar();
+//helloworld.Executar();
+//menormaioridade.Executar();
