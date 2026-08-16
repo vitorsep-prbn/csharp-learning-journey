@@ -6,12 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET%2010-FFD600?style=for-the-badge&logo=dotnet&logoColor=000000">
-  <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-00C853?style=for-the-badge">
+  <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge">
+  <img src="https://img.shields.io/badge/.NET%2010-FFD600?style=for-the-badge&logo=dotnet&logoColor=000000" alt=".NET Badge">
+  <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-00C853?style=for-the-badge" alt="Status Badge">
 </p>
 
----
+<p align="center">
+  <img src="https://githubusercontent.com" width="100%" alt="Linha divisória">
+</p>
 
 ## 👨‍💻 Sobre
 
@@ -19,9 +21,15 @@ Este repositório registra minha evolução enquanto aprendo **C# e .NET**, come
 
 Aqui ficam meus exercícios, testes e pequenos projetos desenvolvidos durante os estudos.
 
-> **Aprender → Praticar → Criar → Melhorar**
+> **💡 Diretriz de Estudos:** Aprender → Praticar → Criar → Melhorar
 
 O objetivo não é apenas copiar códigos, mas entender os conceitos, resolver problemas e melhorar a cada projeto.
+
+<br>
+<p align="center">
+  <img src="https://popsy.co" width="450" alt="Ilustração Programação Verde">
+</p>
+<br>
 
 ---
 
@@ -51,25 +59,27 @@ O objetivo não é apenas copiar códigos, mas entender os conceitos, resolver p
 | 📝 Calculadora de Média | [`CalculadoraDeNota.cs`](CalculadoraDeNota.cs) | Calcula a média de 4 notas e mostra o desempenho no terminal. |
 | 🎬 Locadora de Filmes | [`locadoradeFilmes.cs`](locadoradeFilmes.cs) | Simula uma locadora com login, aluguel, consulta e devolução de filmes. |
 
-> `SomaDe1AteN.cs` foi minha primeira tentativa do exercício de soma e continua no repositório como parte do histórico da minha evolução.
+> 📌 `SomaDe1AteN.cs` foi minha primeira tentativa do exercício de soma e continua no repositório como parte do histórico da minha evolução.
 
 ---
 
-## 🎬 Locadora de Filmes
+## 🎬 Projeto Destaque: Locadora de Filmes
 
-Um dos primeiros exercícios em que comecei a juntar vários conceitos em um único programa.
+Um dos primeiros exercícios em que comecei a juntar vários conceitos em um único programa estruturado.
 
-O sistema simula uma locadora pelo terminal, com:
+<br>
+<p align="center">
+  <img src="https://popsy.co" width="380" alt="Ilustração Cinema e Filmes">
+</p>
+<br>
 
-- 🔐 Login
-- 📋 Menu de opções
-- 🎬 Aluguel de filmes
-- 👀 Consulta de filmes alugados
-- ↩️ Devolução
-- ✅ Validação de escolhas
-- 🎨 Cores no terminal
-
-Ainda é um projeto simples e feito para aprendizado, mas representa um passo além dos exercícios individuais.
+O sistema simula uma locadora real através do terminal, contendo:
+* **🔐 Tela de Login:** Autenticação de usuário com tratamento e mensagens de erro.
+* **📋 Menu Iterativo:** Navegação fluida orientada por opções numéricas.
+* **🍿 Aluguel Dinâmico:** Catálogo de filmes com tabela de preços de diárias.
+* **👀 Consulta de Inventário:** Consulta instantânea do filme atualmente alugado na memória.
+* **↩️ Sistema de Devolução:** Validação de segurança para impedir devoluções vazias.
+* **🎨 Cores Customizadas:** Guia de experiência visual (`ConsoleColor`) para respostas de sucesso (Verde), alertas (Amarelo) e erros (Vermelho).
 
 ---
 
@@ -86,7 +96,7 @@ Ainda é um projeto simples e feito para aprendizado, mas representa um passo al
       ↓
 🧩 Exercícios maiores
       ↓
-🎬 Locadora de Filmes
+🎬 Locadora de Filmes 🎉 (Marcador Atual)
       ↓
 📦 Arrays / Listas
       ↓
@@ -99,109 +109,93 @@ Ainda é um projeto simples e feito para aprendizado, mas representa um passo al
 
 ---
 
-## 🎯 Roadmap
+## 🎯 Roadmap de Aprendizado
 
 ### 🟢 Concluído
-
 - [x] Hello World
-- [x] Variáveis
-- [x] Entrada e saída
-- [x] Operadores
-- [x] Condicionais
-- [x] `for`
-- [x] `while`
-- [x] Primeiros exercícios práticos
-- [x] Primeiro projeto maior de treino
+- [x] Variáveis e Escopos
+- [x] Entrada e saída de dados (`Console.ReadLine`)
+- [x] Operadores Matemáticos e Lógicos
+- [x] Condicionais (`if` / `else`)
+- [x] Laço `for`
+- [x] Laço `while`
+- [x] Manipulação de Cores e Tempo (`Thread.Sleep`)
+- [x] Primeiro projeto consolidado (Locadora)
 
 ### 🟡 Próximos passos
-
-- [ ] Arrays
-- [ ] Listas
-- [ ] Dicionários
-- [ ] Métodos
-- [ ] Orientação a Objetos
-- [ ] Tratamento de erros
-- [ ] LINQ
-- [ ] Git e GitHub em projetos maiores
-- [ ] SQL
-- [ ] APIs
-- [ ] ASP.NET Core
-- [ ] Projetos maiores
+- [ ] Arrays estruturados
+- [ ] Listas Dinâmicas (`List<T>`)
+- [ ] Estruturas de Dicionários
+- [ ] Criação de Métodos Isolados
+- [ ] Programação Orientada a Objetos (POO)
+- [ ] Tratamento de exceções (`try-catch`)
+- [ ] Consultas com LINQ
+- [ ] SQL e Persistência de Dados
+- [ ] Criação de Web APIs com ASP.NET Core
 
 ---
 
-## ▶️ Como executar
+## ▶️ Como executar o Repositório
 
-### Pré-requisitos
+### 🛠️ Pré-requisitos
+* Módulo do **[.NET SDK](https://dotnet.microsoft.com/download)** instalado.
+* Terminal de comandos configurado.
 
-- [.NET SDK](https://dotnet.microsoft.com/download)
-- Git
+### ⚙️ Clonagem e Inicialização
 
-### Clone o repositório
+1. **Baixe o projeto:**
+   ```bash
+   git clone https://github.com/vitorsep-prbn/csharp-learning-journey.git
+   ```
+2. **Entre no diretório:**
+   ```bash
+   cd csharp-learning-journey
+   ```
+3. **Execute a aplicação de entrada:**
+   ```bash
+   dotnet run
+   ```
 
-```bash
-git clone https://github.com/vitorsep-prbn/csharp-learning-journey.git
-cd csharp-learning-journey
-```
-
-### Execute
-
-```bash
-dotnet run
-```
-
-O `Program.cs` funciona como ponto de entrada e permite executar os exercícios individualmente.
+> ⚙️ O arquivo `Program.cs` funciona como a nossa central de execução e chaveia os exercícios chamando cada classe individualmente de forma limpa.
 
 ---
 
-## 📁 Estrutura
+## 📁 Estrutura de Arquivos
 
 ```text
 csharp-learning-journey/
 │
-├── Program.cs
-├── workspace.csproj
+├── Program.cs             # Centralizador / Ponto de Entrada
+├── workspace.csproj       # Configurações do ambiente .NET
 │
-├── helloworld.cs
-├── MenorMaiorIdade.cs
-├── AcessarWIFI.cs
-├── TabuadaSimples.cs
-├── SomaDe1AteN.cs
-├── SomaDe1AteN2.cs
-├── CalculadoraDeNota.cs
-├── locadoradeFilmes.cs
+├── helloworld.cs          # Exercício 1
+├── MenorMaiorIdade.cs     # Exercício 2
+├── AcessarWIFI.cs         # Exercício 3
+├── TabuadaSimples.cs      # Exercício 4
+├── SomaDe1AteN.cs         # Histórico / Versão 1
+├── SomaDe1AteN2.cs        # Exercício 5
+├── CalculadoraDeNota.cs   # Exercício 6
+├── locadoradeFilmes.cs    # Projeto Console Locadora
 │
-└── ...
+└── README.md              # Documentação do Portfólio
 ```
 
 ---
 
 ## 💡 Por que este repositório existe?
 
-Aprender programação não acontece apenas assistindo aulas.
+Aprender programação de verdade exige construir caminhos práticos. Uso este espaço para **estudar → praticar → errar → corrigir → entender → evoluir**.
 
-Quero usar este espaço para:
+Quando eu olhar para trás daqui a alguns anos, este repositório será o mapa que mostrará exatamente de onde comecei e como construí minha fundação na engenharia de software.
 
-**estudar → praticar → errar → corrigir → entender → evoluir.**
-
-Alguns códigos aqui são simples e outros serão melhorados no futuro. Isso faz parte do processo.
-
-Quando eu olhar para este repositório daqui a alguns anos, quero conseguir enxergar claramente de onde comecei.
-
----
-
-## 🚀 Objetivo
-
-Construir uma base sólida em **C# e .NET** e evoluir gradualmente para o desenvolvimento de aplicações reais.
-
-Este repositório é apenas o começo.
-
+<br>
 <p align="center">
-  <strong>🟢 Um conceito por vez. Um projeto por vez. 🟡</strong>
+  <img src="https://popsy.co" width="420" alt="Ilustração Foco nos Estudos">
 </p>
+<br>
 
 ---
 
 <p align="center">
-  Feito por <a href="https://github.com/vitorsep-prbn">@vitorsep-prbn</a>
+  Feito com 💻 por <a href="https://github.com/vitorsep-prbn">@vitorsep-prbn</a>
 </p>
