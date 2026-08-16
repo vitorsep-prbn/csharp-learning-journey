@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
-
 # 🟢 C# Learning Journey 🟡
 
 ### Minha jornada aprendendo **C# e .NET** na prática.
