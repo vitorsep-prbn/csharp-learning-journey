@@ -1,23 +1,316 @@
-🟢 C# Learning Journey 🟡
-�
-￼ 
+# 🟢 VITORSEP-PRBN // C# DEVELOPER IN PROGRESS 🟡
 
-�
-Minha jornada aprendendo C# e .NET na prática.
-Do primeiro programa até projetos cada vez mais completos. 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:00A844,100:FFD600&height=220&section=header&text=SYSTEM%20INITIALIZED&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=C%23%20%2F%20.NET%20%2F%20BUILDING%20THE%20FUTURE&descAlignY=60&descSize=16" width="100%"/>
+</p>
 
-�
-￼ ￼ ￼ ￼ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00C853&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+profile...;%3E+Loading+C%23+%2F+.NET...;%3E+Learning.+Building.+Improving.;%3E+One+project+at+a+time.;%3E+System+status%3A+EVOLVING" alt="Typing Animation"/>
+</p>
 
-👨‍💻 Sobre
-Este repositório registra minha evolução enquanto aprendo C# e .NET, começando pelos fundamentos e avançando gradualmente para projetos mais completos.
-Aqui ficam meus exercícios, testes e pequenos projetos desenvolvidos durante os estudos.
-🟢 Aprender → Praticar → Criar → Melhorar 🟡
-Não quero apenas copiar códigos ou terminar cursos. Quero entender os conceitos, resolver problemas e melhorar minha capacidade de programar a cada projeto.
-🧠 O que estou aprendendo
-🟢 Já pratiquei
-🟡 Próximos passos
-⚪ Futuro
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-FFD600?style=for-the-badge&logo=dotnet&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-FFD600?style=for-the-badge"/>
+</p>
+
+---
+
+## `> SYSTEM.BOOT()`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                 VITORSEP-PRBN / DEVELOPER OS                ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [✓] C# environment loaded                                  ║
+║  [✓] .NET environment loaded                                ║
+║  [✓] Logic module online                                    ║
+║  [✓] Console projects initialized                           ║
+║  [>] Object Oriented Programming      LOADING...             ║
+║  [>] APIs / Databases                  QUEUED                ║
+║                                                              ║
+║  STATUS: █████████████████░░░  EVOLVING                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+> Aprender → Praticar → Criar → Errar → Corrigir → Evoluir
+
+
+---
+
+🧑‍💻 Sobre Mim
+
+<p align="center">
+  <strong>Nome:</strong> Vitor<br>
+  <strong>Foco:</strong> C# / .NET<br>
+  <strong>Nível:</strong> Em aprendizado<br>
+  <strong>Ambiente:</strong> Windows + VS Code<br>
+  <strong>Projetos:</strong> Console Applications<br>
+  <strong>Objetivo:</strong> Tornar-me um desenvolvedor cada vez mais completo
+</p>Estou construindo minha base em programação e desenvolvimento com C#/.NET, transformando o que estudo em exercícios e projetos práticos.
+
+Este perfil representa minha evolução real: desde os primeiros programas até aplicações cada vez mais completas.
+
+> Não quero apenas aprender a escrever código.
+
+Quero aprender a pensar como programador.
+
+
+
+
+---
+
+⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode,visualstudio&theme=dark" />
+</p>🟢 Atualmente
+
+Tecnologia	Status
+
+C#	🟢 Estudando
+.NET	🟢 Estudando
+Git	🟡 Evoluindo
+GitHub	🟡 Evoluindo
+VS Code	🟢 Utilizando
+Lógica de Programação	🟢 Praticando
+
+
+🟡 Próximos módulos
+
+Arrays
+   ↓
+Listas
+   ↓
+Métodos
+   ↓
+Orientação a Objetos
+   ↓
+Tratamento de Erros
+   ↓
+LINQ
+   ↓
+SQL
+   ↓
+APIs
+   ↓
+ASP.NET Core
+
+
+---
+
+🛠️ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,dotnet,visualstudio&theme=dark" />
+</p>IDE / EDITOR       → VS Code
+VERSION CONTROL    → Git
+REPOSITORY         → GitHub
+RUNTIME            → .NET
+LANGUAGE           → C#
+ENVIRONMENT        → Windows
+
+
+---
+
+🚀 Projetos & Prática
+
+<table>
+<tr>
+<td width="50%">🎬 Locadora de Filmes
+
+Primeiro projeto maior de treino em C#.
+
+Inclui:
+
+Login
+
+Menu interativo
+
+Aluguel de filmes
+
+Consulta
+
+Devolução
+
+Validações
+
+Cores no terminal
+
+
+Stack: C# Console
+
+</td><td width="50%">📚 C# Learning Journey
+
+Repositório que registra minha evolução através de exercícios e pequenos projetos.
+
+Praticando:
+
+Variáveis
+
+Condicionais
+
+Loops
+
+Entrada e saída
+
+Classes
+
+Lógica
+
+Resolução de problemas
+
+
+Stack: C# .NET
+
+</td>
+</tr>
+</table><p align="center">
+  <a href="https://github.com/vitorsep-prbn/csharp-learning-journey">
+    <img src="https://img.shields.io/badge/VIEW%20LEARNING%20JOURNEY-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+---
+
+🧠 Exercícios Atuais
+
+┌─────────────────────────────────────────────────────────────┐
+│                     TRAINING DATABASE                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  [01] Hello World                         [COMPLETED] ✓     │
+│  [02] Menor ou Maior de Idade             [COMPLETED] ✓     │
+│  [03] Acessar Wi-Fi                       [COMPLETED] ✓     │
+│  [04] Tabuada                              [COMPLETED] ✓     │
+│  [05] Soma de 1 até N                      [COMPLETED] ✓     │
+│  [06] Calculadora de Média                 [COMPLETED] ✓     │
+│  [07] Locadora de Filmes                   [COMPLETED] ✓     │
+│                                                             │
+│  NEXT TARGET → Arrays / Listas / Métodos                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+
+---
+
+🎯 Current Mission
+
+> mission.load("NEXT_LEVEL")
+
+[01] ████████████████████  FUNDAMENTOS
+[02] █████████████████░░░  LÓGICA
+[03] ████████████░░░░░░░░  PROJETOS
+[04] ████████░░░░░░░░░░░░  OOP
+[05] ████░░░░░░░░░░░░░░░░  APIs
+[06] ██░░░░░░░░░░░░░░░░░░  DATABASES
+
+> objective = "become a better developer"
+> status    = "IN PROGRESS"
+> priority  = "CONSISTENCY"
+
+Próximos objetivos
+
+[ ] Dominar os fundamentos de C#
+
+[ ] Aprender Arrays e Listas
+
+[ ] Aprender Orientação a Objetos
+
+[ ] Melhorar organização de código
+
+[ ] Aprender tratamento de erros
+
+[ ] Aprender LINQ
+
+[ ] Aprender SQL
+
+[ ] Criar APIs com ASP.NET Core
+
+[ ] Desenvolver projetos maiores
+
+[ ] Construir um portfólio sólido
+
+
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsep-prbn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=FFD600&text_color=FFFFFF&ring_color=00C853&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsep-prbn&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8"/>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitorsep-prbn&theme=dark&hide_border=true&background=0D1117&ring=00C853&fire=FFD600&currStreakLabel=00C853&sideLabels=FFFFFF&dates=888888" width="90%"/>
+</p>
+---
+
+📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorsep-prbn&bg_color=0D1117&color=FFFFFF&line=00C853&point=FFD600&area=true&hide_border=true&custom_title=Vitor's%20Development%20Activity" width="95%"/>
+</p>
+---
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitorsep-prbn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</p>
+---
+
+🐍 Contribution System
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitorsep-prbn/vitorsep-prbn/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>> CONTRIBUTION ENGINE — cada contribuição representa mais um passo na evolução.
+
+
+
+
+---
+
+📡 Connect
+
+<p align="center">
+  <a href="https://github.com/vitorsep-prbn">
+    <img src="https://img.shields.io/badge/GitHub-vitorsep--prbn-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+---
+
+🖥️ Terminal
+
+┌──[ VITOR@DEV ]──[ ~/learning ]
+│
+├── $ whoami
+│   └── developer_in_progress
+│
+├── $ focus
+│   └── C# / .NET
+│
+├── $ current_task
+│   └── learning_and_building
+│
+├── $ philosophy
+│   └── "Código melhor amanhã do que hoje."
+│
+└── $ system.status
+    └── ONLINE • LEARNING • BUILDING • EVOLVING
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD600,50:00C853,100:006B2E&height=130&section=footer" width="100%"/>
+</p><p align="center">
+  <strong>🟢 BUILD. LEARN. REPEAT. 🟡</strong>
+</p><p align="center">
+  <sub>Construindo minha base, um conceito e um projeto por vez.</sub>
+</p><p align="center">
+  <a href="https://github.com/vitorsep-prbn">github.com/vitorsep-prbn</a>
+</p>
+```⚪ Futuro
 Lógica de programação
 Arrays e listas
 Tratamento de erros
