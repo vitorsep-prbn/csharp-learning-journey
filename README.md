@@ -1,263 +1,221 @@
-🟢 C# Learning Journey 🟡
+# 🟢 VITOR // C# & .NET DEVELOPER IN PROGRESS
 
 <p align="center">
-  <strong>Minha jornada aprendendo C# e .NET na prática.</strong><br>
-  Do primeiro programa até projetos cada vez mais completos.
+  <strong>Construindo minha base em programação através da prática.</strong><br>
+  C# • .NET • Lógica • Projetos • Evolução contínua
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET%2010-FFD600?style=for-the-badge&logo=dotnet&logoColor=000000">
-  <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-00C853?style=for-the-badge">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-FFD600?style=for-the-badge">
 </p>
 
-👨‍💻 Sobre
+---
 
-Este repositório registra minha evolução enquanto aprendo C# e .NET, começando pelos fundamentos e avançando gradualmente para projetos mais completos.
+## 👨‍💻 Sobre mim
 
-Aqui ficam meus exercícios, testes e pequenos projetos desenvolvidos durante os estudos.
+Sou **Vitor**, desenvolvedor em formação, construindo minha carreira na programação com foco em **C# e .NET**.
 
-Aprender → Praticar → Criar → Melhorar
+Este repositório acompanha minha evolução na prática: desde os primeiros programas e exercícios de lógica até aplicações de console cada vez mais estruturadas.
 
-O objetivo não é apenas copiar códigos, mas entender os conceitos, resolver problemas e melhorar a cada projeto.
+Meu objetivo não é apenas aprender a escrever código, mas desenvolver a capacidade de:
 
-🛠️ O que estou praticando
+- entender problemas;
+- criar soluções;
+- escrever e ler código;
+- encontrar e corrigir bugs;
+- explicar minhas decisões;
+- pesquisar soluções;
+- construir projetos;
+- aplicar boas práticas;
+- evoluir gradualmente até um nível profissional.
 
-🟢 Já pratiquei
+> **Ainda estou no começo. Este repositório existe justamente para mostrar o caminho.**
 
-🟡 Próximos passos
+---
 
-Lógica de programação
+## 🛠️ Tecnologias
 
-Arrays
+### Atualmente utilizando
 
-Variáveis e tipos
+<p>
+  <img src="https://img.shields.io/badge/C%23-00C853?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
 
-Listas
+Minha base atual envolve **C#**, **.NET** e desenvolvimento no **Visual Studio Code**.
 
-Entrada e saída
+### Próximas tecnologias
 
-Dicionários
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
 
-Operadores
+Essas tecnologias fazem parte dos próximos passos da minha jornada e **não representam conhecimentos que já domino**.
 
-Métodos
+---
 
-Condicionais
+## 📚 Atualmente estudando
 
-Orientação a Objetos
+Minha base atual está sendo construída sobre:
 
-for e while
+- lógica de programação;
+- variáveis e tipos;
+- operadores;
+- entrada e saída de dados;
+- condicionais;
+- `for` e `while`;
+- teste de mesa;
+- debugging básico;
+- C# e .NET.
 
-Tratamento de erros
+Também estou avançando gradualmente para conceitos como:
 
-Classes
+- métodos;
+- parâmetros e retorno;
+- arrays;
+- `List<T>`;
+- classes e objetos;
+- orientação a objetos;
+- encapsulamento;
+- composição;
+- herança;
+- polimorfismo;
+- interfaces;
+- generics;
+- exceções;
+- LINQ.
 
-LINQ
+---
 
-📚 Exercícios
+## 🚀 Projetos e Exercícios
 
-Exercício
+Cada arquivo abaixo representa uma etapa da minha prática com C#.  
+São exercícios e pequenos projetos que fazem parte da mesma jornada de aprendizado.
 
-Arquivo
+### 📶 AcessarWIFI
 
-Descrição
+Exercício em C# relacionado à lógica de acesso a uma rede Wi-Fi.
 
-👋 Hello World
+### 🧮 CalculadoraDeNota
 
-helloworld.cs
+Exercício voltado para trabalhar com notas e lógica de programação.
 
-Primeiro programa, imprime "Hello World" no console.
+### 🔢 MenorMaiorIdade
 
-🔞 Menor ou Maior de Idade
+Exercício envolvendo idade e tomada de decisões através de condicionais.
 
-MenorMaiorIdade.cs
+### ➕ SomaDe1AteN
 
-Lê a idade e informa se é maior ou menor de idade.
+Exercício de lógica envolvendo a soma de valores de `1` até um determinado número.
 
-📶 Acessar Wi-Fi
+### ➕ SomaDe1AteN2
 
-AcessarWIFI.cs
+Outra implementação de um exercício de soma de `1` até `N`, fazendo parte da prática de lógica e estruturas de repetição.
 
-Simula um acesso ao Wi-Fi comparando usuário e senha.
+### 📊 TabuadaSimples
 
-🔢 Tabuada
+Exercício de C# para praticar a construção de uma tabuada utilizando lógica e repetição.
 
-TabuadaSimples.cs
+### 👋 Hello World
 
-Lê um número e imprime sua tabuada de 1 a 10 usando for.
+Meu primeiro contato com um programa básico em C#.
 
-➕ Soma de 1 até N
+### 🎬 Locadora de Filmes
 
-SomaDe1AteN2.cs
+Programa de console desenvolvido durante minha prática de C#, trabalhando conceitos de lógica, condições, loops, entrada de dados e controle de estado.
 
-Soma os números de 1 até N e verifica se é par ou ímpar.
+---
 
-📝 Calculadora de Média
+## 🗺️ Roadmap
 
-CalculadoraDeNota.cs
+A direção da minha jornada de aprendizado:
 
-Calcula a média de 4 notas e mostra o desempenho no terminal.
+```text
+C#
+ │
+ ▼
+Programação Orientada a Objetos
+ │
+ ▼
+.NET
+ │
+ ▼
+Git & GitHub
+ │
+ ▼
+SQL
+ │
+ ▼
+Entity Framework Core
+ │
+ ▼
+ASP.NET Core
+ │
+ ▼
+Web APIs
+ │
+ ▼
+Testes
+ │
+ ▼
+Docker
+ │
+ ▼
+Arquitetura
+ │
+ ▼
+Projetos profissionais
 
-🎬 Locadora de Filmes
+Este roadmap representa para onde estou indo, não etapas que já concluí.
 
-locadoradeFilmes.cs
 
-Simula uma locadora com login, aluguel, consulta e devolução de filmes.
-
-SomaDe1AteN.cs foi minha primeira tentativa do exercício de soma e continua no repositório como parte do histórico da minha evolução.
-
-🎬 Locadora de Filmes
-
-Um dos primeiros exercícios em que comecei a juntar vários conceitos em um único programa.
-
-O sistema simula uma locadora pelo terminal, com:
-
-🔐 Login
-
-📋 Menu de opções
-
-🎬 Aluguel de filmes
-
-👀 Consulta de filmes alugados
-
-↩️ Devolução
-
-✅ Validação de escolhas
-
-🎨 Cores no terminal
-
-Ainda é um projeto simples e feito para aprendizado, mas representa um passo além dos exercícios individuais.
+---
 
 📈 Minha evolução
 
-👋 Hello World
-      ↓
-📥 Entrada de dados
-      ↓
-🔀 Condicionais
-      ↓
-🔄 Laços de repetição
-      ↓
-🧩 Exercícios maiores
-      ↓
-🎬 Locadora de Filmes
-      ↓
-📦 Arrays / Listas
-      ↓
-🏗️ Orientação a Objetos
-      ↓
-🚀 Projetos maiores
-      ↓
-🌐 .NET / APIs / Banco de Dados
+Minha jornada pode ser resumida assim:
 
-🎯 Roadmap
-
-🟢 Concluído
-
-Hello World
-
-Variáveis
-
+Primeiros programas
+        ↓
+Lógica de programação
+        ↓
 Entrada e saída
-
-Operadores
-
+        ↓
+Variáveis e tipos
+        ↓
 Condicionais
-
-for
-
-while
-
-Primeiros exercícios práticos
-
-Primeiro projeto maior de treino
-
-🟡 Próximos passos
-
-Arrays
-
-Listas
-
-Dicionários
-
-Métodos
-
+        ↓
+Estruturas de repetição
+        ↓
+Resolução de problemas
+        ↓
+Exercícios e projetos de console
+        ↓
+C# cada vez mais estruturado
+        ↓
 Orientação a Objetos
+        ↓
+.NET e desenvolvimento de aplicações
+        ↓
+Banco de dados e APIs
+        ↓
+Projetos cada vez maiores
 
-Tratamento de erros
+A ordem dos exercícios neste repositório não representa necessariamente uma linha do tempo exata. O importante é que cada projeto registra uma parte do processo de aprendizagem.
 
-LINQ
 
-Git e GitHub em projetos maiores
+---
 
-SQL
+🎯 Objetivo
 
-APIs
+Construir uma base sólida em C# e .NET e transformar conhecimento em prática, evoluindo de exercícios simples para projetos cada vez mais completos e, futuramente, para o desenvolvimento profissional.
 
-ASP.NET Core
-
-Projetos maiores
-
-▶️ Como executar
-
-Pré-requisitos
-
-.NET SDK
-
-Git
-
-Clone o repositório
-
-git clone https://github.com/vitorsep-prbn/csharp-learning-journey.git
-cd csharp-learning-journey
-
-Execute
-
-dotnet run
-
-O Program.cs funciona como ponto de entrada e permite executar os exercícios individualmente.
-
-📁 Estrutura
-
-csharp-learning-journey/
-│
-├── Program.cs
-├── workspace.csproj
-│
-├── helloworld.cs
-├── MenorMaiorIdade.cs
-├── AcessarWIFI.cs
-├── TabuadaSimples.cs
-├── SomaDe1AteN.cs
-├── SomaDe1AteN2.cs
-├── CalculadoraDeNota.cs
-├── locadoradeFilmes.cs
-│
-└── ...
-
-💡 Por que este repositório existe?
-
-Aprender programação não acontece apenas assistindo aulas.
-
-Quero usar este espaço para:
-
-estudar → praticar → errar → corrigir → entender → evoluir.
-
-Alguns códigos aqui são simples e outros serão melhorados no futuro. Isso faz parte do processo.
-
-Quando eu olhar para este repositório daqui a alguns anos, quero conseguir enxergar claramente de onde comecei.
-
-🚀 Objetivo
-
-Construir uma base sólida em C# e .NET e evoluir gradualmente para o desenvolvimento de aplicações reais.
-
-Este repositório é apenas o começo.
-
-<p align="center">
-  <strong>🟢 Um conceito por vez. Um projeto por vez. 🟡</strong>
-</p>
-
-<p align="center">
-  Feito por <a href="https://github.com/vitorsep-prbn">@vitorsep-prbn</a>
-</p>
+Um código de cada vez. Uma habilidade de cada vez.
