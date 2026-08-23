@@ -1,134 +1,161 @@
-# Olá, eu sou o Vitor 👋
+# Hi, I'm Vitor 👋
 
 <p align="center">
-  <strong>Desenvolvedor C# e .NET em formação, construindo uma base sólida através da prática.</strong>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=C%23+and+.NET+Developer+in+Progress;Learning+by+building+projects;One+line+of+code+at+a+time."
+    alt="C# and .NET Developer in Progress. Learning by building projects. One line of code at a time."
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Status-Em%20aprendizado-FFD600?style=for-the-badge" alt="Em aprendizado">
+  <strong>Building a solid programming foundation through practice, projects, and continuous learning.</strong>
 </p>
 
-## Sobre mim
-
-Sou o **Vitor**, desenvolvedor em formação com foco em **C#** e **.NET**.
-
-Estou construindo minha carreira por meio de exercícios, desafios de lógica e projetos de console. Meu objetivo é evoluir gradualmente, saindo dos fundamentos da programação até o desenvolvimento de aplicações mais completas e profissionais.
-
-Atualmente, busco desenvolver a capacidade de:
-
-- Resolver problemas com lógica
-- Escrever, ler e organizar código
-- Encontrar e corrigir bugs
-- Pesquisar soluções com autonomia
-- Explicar decisões técnicas
-- Aplicar boas práticas desde o início
-- Transformar teoria em projetos práticos
-
-> Ainda estou no começo da jornada — e este perfil registra minha evolução, um projeto por vez.
-
-## Tecnologias
-
-### Em uso
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-00C853?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-00C853?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dotnet">
+  <img src="https://img.shields.io/badge/Status-Learning-FFD600?style=for-the-badge" alt="Status: Learning">
 </p>
 
-### Próximos passos
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitorsep-prbn&label=Profile%20views&color=00C853&style=flat" alt="Profile views counter">
+</p>
+
+---
+
+## 👨‍💻 About me
+
+I'm **Vitor**, a developer in progress focused on learning **C#** and **.NET**.
+
+I am building my programming foundation through logic exercises, console applications, debugging practice, and progressively more structured projects.
+
+My goal is not only to write code, but also to learn how to:
+
+- Solve problems with logical thinking
+- Write clean and understandable code
+- Read, debug, and improve code
+- Research solutions independently
+- Explain technical decisions
+- Turn concepts into practical projects
+- Grow step by step toward professional software development
+
+> I am still at the beginning of my journey — and this profile is where I document that progress.
+
+---
+
+## 🛠️ Tech stack
+
+### Currently using
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white" alt="SQL">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,vscode" alt="C Sharp, Dotnet and Visual Studio Code">
+</p>
+
+### Learning next
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,docker" alt="Git, GitHub, MySQL and Docker">
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-> As tecnologias desta seção fazem parte do meu plano de estudos e não representam conhecimentos que já domino.
+> These technologies are part of my learning roadmap and do not represent skills I have mastered yet.
 
-## O que estou estudando
+---
 
-Minha base atual inclui:
-
-- Lógica de programação
-- Variáveis, tipos e operadores
-- Entrada e saída de dados
-- Estruturas condicionais
-- Laços de repetição com `for` e `while`
-- Teste de mesa e debugging básico
-- C# e fundamentos do .NET
-
-Também estou avançando para:
-
-- Métodos, parâmetros e retorno
-- Arrays e `List<T>`
-- Classes e objetos
-- Orientação a objetos
-- Encapsulamento, composição, herança e polimorfismo
-- Interfaces e generics
-- Tratamento de exceções
-- LINQ
-
-## Projetos e exercícios
-
-Aqui estão alguns exercícios e projetos que fazem parte da minha prática com C#:
-
-| Projeto | Descrição |
-|---|---|
-| 📶 AcessarWIFI | Exercício de lógica relacionado ao acesso a uma rede Wi-Fi |
-| 🧮 CalculadoraDeNota | Prática de notas, cálculos e lógica de programação |
-| 🔢 MenorMaiorIdade | Exercício com idade, condicionais e tomada de decisão |
-| ➕ SomaDe1AteN | Soma dos valores de `1` até um número informado |
-| ➕ SomaDe1AteN2 | Outra abordagem para a soma de `1` até `N` |
-| 📊 TabuadaSimples | Construção de uma tabuada com estruturas de repetição |
-| 👋 Hello World | Meu primeiro programa em C# |
-| 🎬 Locadora de Filmes | Projeto de console com lógica, condições, loops, entrada de dados e controle de estado |
-
-## Roadmap
+## 📚 What I'm studying
 
 ```text
-C#
- │
- ▼
-Programação Orientada a Objetos
- │
- ▼
-.NET
- │
- ▼
-Git e GitHub
- │
- ▼
-SQL
- │
- ▼
+Programming Logic
+      ↓
+C# Fundamentals
+      ↓
+Object-Oriented Programming
+      ↓
+.NET Applications
+      ↓
+Git and GitHub
+      ↓
+Databases and SQL
+      ↓
 Entity Framework Core
- │
- ▼
-ASP.NET Core
- │
- ▼
-Web APIs
- │
- ▼
-Testes
- │
- ▼
-Docker
- │
- ▼
-Arquitetura e projetos profissionais
+      ↓
+ASP.NET Core and Web APIs
+      ↓
+Testing, Docker, and Architecture
 ```
 
-> Este roadmap representa a direção da minha jornada, não etapas já concluídas.
+### Current topics
 
-## Objetivo
+- Variables, data types, and operators
+- Input and output
+- Conditional statements
+- `for` and `while` loops
+- Debugging and dry runs
+- Methods, parameters, and return values
+- Arrays and `List<T>`
+- Classes and objects
+- Encapsulation, inheritance, and polymorphism
+- Interfaces, generics, exceptions, and LINQ
 
-Construir uma base sólida em **C#** e **.NET**, transformando conhecimento em prática e evoluindo de exercícios simples para projetos cada vez mais completos.
+---
 
-**Um código de cada vez. Uma habilidade de cada vez.**
+## 🚀 Projects and exercises
+
+| Project | Description | Main concepts |
+|---|---|---|
+| 📶 AcessarWIFI | Logic exercise related to connecting to a Wi-Fi network | Conditions and decision-making |
+| 🧮 CalculadoraDeNota | Grade calculator exercise | Variables, calculations, and logic |
+| 🔢 MenorMaiorIdade | Age comparison exercise | Conditional statements |
+| ➕ SomaDe1AteN | Calculates the sum from `1` to a chosen number | Loops |
+| ➕ SomaDe1AteN2 | Another implementation of the sum from `1` to `N` | Repetition structures |
+| 📊 TabuadaSimples | Simple multiplication table | Loops and output |
+| 👋 Hello World | My first C# program | C# basics |
+| 🎬 Locadora de Filmes | Console application for movie rental logic | Conditions, loops, input, and state control |
+
+> Each project represents a practical step in my learning journey.
+
+---
+
+## 📈 GitHub stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=vitorsep-prbn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    alt="GitHub statistics for Vitor"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsep-prbn&layout=compact&langs_count=7&theme=github_dark"
+    alt="Most used programming languages by Vitor"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vitorsep-prbn&theme=github-dark-blue&hide_border=false"
+    alt="GitHub contribution streak for Vitor"
+  />
+</p>
+
+---
+
+## 🎯 Goal
+
+Build a strong foundation in **C#** and **.NET**, turning knowledge into practice and evolving from small exercises into increasingly complete projects.
+
+**One line of code at a time. One skill at a time.**
+
+---
+
+## 📫 Let's connect
+
+<p>
+  <a href="mailto:vivitorinoarts@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Vitor">
+  </a>
+</p>
